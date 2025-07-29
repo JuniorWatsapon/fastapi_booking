@@ -19,7 +19,6 @@ python -m venv venv
 ```
 Windows
 ```bash
-python -m venv venv
 venv\Scripts\activate
 ```
 macOS/Linux
